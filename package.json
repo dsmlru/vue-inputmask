@@ -1,11 +1,10 @@
 {
   "name": "vue-inputmask",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "InputMask for Vue.js",
-  "author": "Simon Clériot <cleriotsimon@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/captiz/vue-inputmask"
+    "url": "https://github.com/aatrofimov/vue-inputmask"
   },
   "keywords": [
     "inputmask",
@@ -13,8 +12,8 @@
     "input-mask"
   ],
   "dependencies": {
-    "inputmask": "^3.3.8",
-    "vue": "^2.4.2"
+    "inputmask": "^4.0.2",
+    "vue": "^2.5.17"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
