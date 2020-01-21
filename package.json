@@ -1,10 +1,10 @@
 {
   "name": "inputmask.vue",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "InputMask for Vue.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aatrofimov/vue-inputmask"
+    "url": "https://github.com/dsmlru/vue-inputmask"
   },
   "keywords": [
     "inputmask",
