@@ -12,7 +12,7 @@
     "input-mask"
   ],
   "dependencies": {
-    "inputmask": "^4.0.2",
+    "inputmask": "^5.0.0",
     "vue": "^2.5.17"
   },
   "devDependencies": {
